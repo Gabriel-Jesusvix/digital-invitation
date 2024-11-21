@@ -1,4 +1,4 @@
-import { events } from "@/core/constants";
+import { events } from "core/src/constants";
 import Image from "next/image";
 import Link from "next/link";
 import QRCode from "react-qr-code";

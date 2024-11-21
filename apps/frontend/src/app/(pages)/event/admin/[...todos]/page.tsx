@@ -2,7 +2,7 @@
 "use client";
 
 import { use, useEffect, useState } from "react";
-import { Event, events, Guest } from "@/core";
+import { Event, events, Guest } from "core";
 import { DashboardEvent } from "@/components/event/DashboardEvent";
 import { FormPasswordEvent } from "@/components/event/FormPasswordEvent";
 
