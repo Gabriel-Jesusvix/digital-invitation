@@ -1,5 +1,5 @@
 import { PrismaClient } from '@prisma/client';
-import events from 'core/src/constants/events';
+import { events } from 'core/src/constants/events';
 
 async function seed() {
   const prisma = new PrismaClient();
